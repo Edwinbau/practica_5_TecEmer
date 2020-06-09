@@ -1,6 +1,9 @@
-https://drive.google.com/drive/my-drive
+# practica_5_TecEmer--
+Capturas de la practica
+https://drive.google.com/file/d/1rZ5CaWgss4fBWh3nQTBjuNpZKxYiFWKb/view?usp=drivesdk
 
-# practica_5_TecEmer-- 
+
+creacionde de bd_almacen- 
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
